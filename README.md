@@ -31,7 +31,6 @@ A full-stack **Data Analytics Dashboard** built using the **PERN Stack (PostgreS
 ### CSV Import/Export - Data Import & Export
 <img width="468" height="241" alt="Screenshot 2026-07-08 at 12 45 24 AM" src="https://github.com/user-attachments/assets/1e3430b8-bce7-4f89-b2c9-6203a8d9e844" />
 
-
 ---
 
 # ✨ Features
@@ -295,6 +294,3 @@ This project is licensed under the MIT License.
 - Render
 - Vercel
 
----
-
-⭐ If you found this project useful, consider giving it a star on GitHub!
